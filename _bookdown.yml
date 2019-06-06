@@ -1,0 +1,18 @@
+book_filename: "Didgeridata"
+chapter_name: "Chapter "
+repo: https://github.com/asantone/didgeridata
+output_dir: docs
+rmd_files: [
+  "index.Rmd", 
+  "learningGoals.Rmd",
+  "climateData.Rmd",
+  "didgeridoo.Rmd", 
+  "paixiao.Rmd",
+  "music.Rmd", 
+  "materials.Rmd",
+  "supplementalDocs.Rmd",
+  "implementation.Rmd",
+  "references.Rmd"
+  ]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
