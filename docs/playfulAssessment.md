@@ -9,7 +9,7 @@ output:
 <!-- co-authored with MIT Playful Journey Lab -->
 
 ## Introduction 
-Assessment is a powerful tool that allows students and their stakeholders (e.g., caregivers, teachers, school administration) to understand how students are learning and how they might want to proceed with their learning processes. However, traditional summative assessment strategies are not good at capturing or assessing learning in the open-ended, collaborative, cross-disciplinary, iterative, and dynamic nature of hands-on activities like Dedgeridata and other lessons in the STEAM camp. 
+Assessment is a powerful tool that allows students and their stakeholders (e.g., caregivers, teachers, school administration) to understand how students are learning and how they might want to proceed with their learning processes. However, traditional summative assessment strategies are not good at capturing or assessing learning in the open-ended, collaborative, cross-disciplinary, iterative, and dynamic nature of hands-on activities like Didgeridata and other lessons in the STEAM camp. 
 
 Playful Journey Lab at MIT has been exploring assessment that captures rich learning happens in such hands-on activities that called playful assessment. Playful assessment is an approach to measure knowledge, skills, attitudes, beliefs, interests, and practices incorporating elements of fun and participation in the process of capturing and understanding learning. Playful assessment allows for multidimensional evaluation of student choices, actions, decisions, and behaviors as they interact with each other in the context of educational activities. 
 
