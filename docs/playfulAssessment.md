@@ -1,0 +1,41 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+# Playful Assessment
+<!-- co-authored with MIT Playful Journey Lab -->
+
+## Introduction 
+Assessment is a powerful tool that allows students and their stakeholders (e.g., caregivers, teachers, school administration) to understand how students are learning and how they might want to proceed with their learning processes. However, traditional summative assessment strategies are not good at capturing or assessing learning in the open-ended, collaborative, cross-disciplinary, iterative, and dynamic nature of hands-on activities like Dedgeridata and other lessons in the STEAM camp. 
+
+Playful Journey Lab at MIT has been exploring assessment that captures rich learning happens in such hands-on activities that called playful assessment. Playful assessment is an approach to measure knowledge, skills, attitudes, beliefs, interests, and practices incorporating elements of fun and participation in the process of capturing and understanding learning. Playful assessment allows for multidimensional evaluation of student choices, actions, decisions, and behaviors as they interact with each other in the context of educational activities. 
+
+During this module, there will be a number of moments where students are encouraged to capture and reflect on their own learning, specifically on their experiences of social scaffolding, which is a term that represents the practices of helping each other. Using one of the playful assessment tools, students will capture their moments of social scaffolding and will reflect on their interaction at the end of the lesson, along with their experience of being part of this module.
+
+## Social Scaffolding
+Social scaffolding in this context boils down to opportunities for students to help each other. This lesson provides substantial opportunities for students to work in pairs, but also to work across teams to provide feedback and encouragement. Here are some examples that may be helpful to consider during implementation.
+
+- Have students provide public feedback at each stage of the module (data, construction, composition, performance)
+- Have students "borrow" or swap team members temporarily to force the infusion of new ideas
+- Ask students to tell each other what their most/least favorite thing is about the others' work -- these comments will need to be useful comments that can initiate action as needed
+- Tell students they can add questions ("Does anyone know how to..." or "Can you help me do...") to the Question Board and have their peers attempt to help with answers or provide assistance
+- Encourage students to promote their interests and talents -- does someone know a lot about music? about construction? about data? Where are the resources in the classroom and how can they be leveraged to help everyone?
+
+## Gallery Walk as Moment of Demonstrating Social Scaffolding 
+Either during a scheduled break or a brief, dedicated session, students may be encouraged to present their current work. For example, they could simply clear their desks and place their musical instruments such that wandering peers could inspect them. During this period, peers would either leave comment notes at the team stations or place comments on a central board for all teams. 
+
+An example of this might be a student observing the work of Team 1. They notice that Team 1 has constructed a didgeridoo that has extensive surface texture at one end indicating the irregularity of data during the earliest years of collection. They really like this idea! However, the instrument overall is perhaps too long to play comfortably. Their feedback note might encourage their decoration work by suggesting the addition of color to enhance the texture, but they may also suggest cutting the didigeridoo down to a more manageable size. 
+
+What these feedback notes provide is a form of playful formative assessment for the students and classroom teachers. Students will be giving each other feedback that can help them to self-reflect, gain some new ideas, increase confidence in their decisions, and understand the perspective of outside peers. 
+
+
+
+
+
+
+
+
+
